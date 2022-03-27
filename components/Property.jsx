@@ -1,3 +1,4 @@
+
 import Link from "next/link";
 import Image from "next/image";
 
@@ -44,4 +45,4 @@ const Property = ({property:{coverPhoto , price , rentFrequency , rooms, title ,
 
 )
 
-export default Property
+export default Property;
